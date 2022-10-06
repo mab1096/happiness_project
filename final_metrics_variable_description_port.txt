@@ -1,0 +1,43 @@
+Happiness Metrics Project Variable Description
+
+
+***** Variables that I use in the Project:
+V6  = Happiness Index Ranking
+V7  = Happiness Index Score
+V18 = Alcohol Consumption
+V19 = Imports of Goods & Services
+V20 = Ease of doing Business Score
+V21 = Access to Electricity (% of Population)
+V22 = Labor Force Participation Rate
+V23 = Armed Forces Personnel (% of Labor Force)
+V24 = Unemployment (% of Total Labor Force)
+
+
+
+
+Total Variables:
+V1  = Base Year
+V2  = Base Year
+V3  = Country
+V4  = Region
+V5  = Country Code
+V6  = Happiness Index Ranking
+V7  = Happiness Index Score
+V8  = Lower Confidence Interval (happiness index score)
+V9  = Upper Confidence Interval (happiness index score)
+V10 = Economy (GDP Per Capita)
+V11 = Family
+V12 = Health (Life Expectancy)
+V13 = Freedom
+V14 = Trust (Government Corruption)
+V15 = Generosity
+V16 = Dystopia Residual
+V17 = Country Code
+V18 = Alcohol Consumption
+V19 = Imports of Goods & Services
+V20 = Ease of doing Business Score
+V21 = Access to Electricity (% of Population)
+V22 = Labor Force Participation Rate
+V23 = Armed Forces Personnel (% of Labor Force)
+V24 = Unemployment (% of Total Labor Force)
+
